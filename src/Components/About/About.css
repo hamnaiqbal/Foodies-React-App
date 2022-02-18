@@ -1,0 +1,55 @@
+ @import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@500&display=swap');
+
+    
+ .para{
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+
+ }
+ .learn{
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+
+ }
+ .boxes{
+     height: 350px;
+     width: 100vw;
+     background-color: rgb(68, 68, 65);
+     display: flex;
+    
+     /* background-image: url("health.jpg"); */
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .boxes:hover{
+    opacity: 1;
+
+ }
+.TitleAbout{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    background-color: rgb(146, 139, 139);
+    opacity: 0.5;
+  
+
+}
+.middle{
+    margin-left: 40%;
+    
+}
+.middle:hover{
+    opacity: 0.6;
+}
+.infoAbout{
+    color: rgb(252, 242, 242);
+    background-color: #000000;
+
+    margin-top: 45%;
+    font-size: 16px;
+    padding: 16px 32px;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-size: 32px;
+
+}
+.about:hover{
+    opacity: 0.4;
+}

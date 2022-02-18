@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique&display=swap');
+.nav-link{
+    color: black;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+#nav:hover{
+    border-bottom: 2px solid black;
+  
+}
+
+.nav-link.active{
+border-bottom: 2px solid rgb(73, 47, 47);
+
+}
+
+#nav{
+    margin-right: 20px;
+}
+
+
+.head{
+    font-size: 26px;
+}

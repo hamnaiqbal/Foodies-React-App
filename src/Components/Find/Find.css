@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@500&display=swap');
+
+
+.map{
+   background-image: url(health.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+  
+   height: 350px;
+  margin: 45px;
+
+
+   
+}
+
+.map:hover{
+    opacity: 0.5;
+   
+}
+.find{
+    font-size: 44px;
+   padding-top: 90px;
+    font-family:  'Zen Kaku Gothic Antique', sans-serif;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+   
+}

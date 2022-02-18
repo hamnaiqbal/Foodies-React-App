@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.plate{
+    position: relative;
+    
+
+ 
+}
+.cook{
+    position: absolute;
+
+  
+ 
+}
+.healthy{
+    color:green;
+}
+.heading{
+    
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    margin-top: 50px;
+}
+.love{
+    color: red;
+    font-size: large;
+ 
+}
+.para{
+    margin-top: 30px;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+:root {
+    --main-light-color: #f9bbb1;
+
+  }
+  
+  
+  .box{
+      width: 80vh;
+      height: 80vh;
+      /* border: solid black; */
+      margin: auto;
+      position: absolute;
+      display: block;
+  }
+  
+ 
+  
+
+  
+  .dialog-2{
+        height: 15%;
+        width: 40%;
+        background-color: var(--main-light-color);
+        position: absolute;
+        border-radius: 10%;
+        right: 0;
+  }
+  
+  .right-point{
+      width: 0;
+      height: 0;
+      border-left: 2vh solid transparent;
+      border-right: 2vh solid transparent;
+      border-top: 10vh solid var(--main-light-color);
+      position: absolute;
+      top: 45%;
+      right: 100%;
+      transform: rotate(60deg);
+  }
+  .chef{
+      font-family: 'Zen Kaku Gothic Antique', sans-serif ;
+      font-style: italic;
+      font-size: small;
+      padding: 15px;
+  }
+  .why{
+    font-family: 'Zen Kaku Gothic Antique', sans-serif ;
+
+  }
+  .menu{
+    font-family: 'Manrope', sans-serif;
+  }
+  .parap{
+    font-weight: 800;
+      color:#E8BD0D;
+  }
+  .head{
+      font-size: 18px;
+      font-weight: bold;
+      
+  }
